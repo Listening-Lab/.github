@@ -7,10 +7,18 @@ The research team and activities combine multidisciplinary expertise and methodo
 Another strong research pillar of the Listening Lab is HEARING, where we follow open questions related to the human hearing process to develop improved sound detection devices (microphones, hearing aids, cochlear implants) to help people with impaired hearing or hearing loss.
 
 ## Team
-Associate Professor Stefanie Gutschmidt (Research Group Leader) - Mechanical Engineering, UC
-Ben McEwen (PhD Candidate) - Computer Science and Software Engineering
-Kaspar Soltero (PhD Candidate) - Mechanical Engineering
+Associate Professor Stefanie Gutschmidt (Research Group Leader) - Mechanical Engineering, UC \
+Ben McEwen (PhD Candidate) - Computer Science and Software Engineering \
+Kaspar Soltero (PhD Candidate) - Mechanical Engineering 
 
 ## Collaborators
-Rainforest Connection - `https://rfcx.org/`
-UC Vision - `https://ucvision.org.nz/`
+Professor Richard Green - <https://www.canterbury.ac.nz/engineering/contact-us/people/richard-green.html> \
+Senior Lecturer Andrew Bainbridge-Smith - <https://www.canterbury.ac.nz/engineering/contact-us/people/andrew-bainbridge-smith.html> \
+Senior Lecturer James Atlas - <https://www.canterbury.ac.nz/engineering/contact-us/people/james-atlas.html>
+
+### Organisations
+Rainforest Connection - <https://rfcx.org/> \
+UC Vision - <https://ucvision.org.nz/> \
+Cacophony Project - <https://cacophony.org.nz/> \
+Predator Free 2050 Limited - <https://pf2050.co.nz/> \
+Forest and Bird NZ - <https://www.forestandbird.org.nz/> 
