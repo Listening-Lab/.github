@@ -24,8 +24,8 @@ Predator Free 2050 Limited - <https://pf2050.co.nz/> \
 Forest and Bird NZ - <https://www.forestandbird.org.nz/> 
 
 <p float="left">
-  <img src="./assets/Cacophony.png" height="100" />
-  <img src="./assets/UC_logo_transparent.png" height="100" /> 
-  <img src="./assets/PF2050.png" height="100" />
-  <img src="./assets/rfcx.png" height="100" />
+  <img src="./profile/assets/Cacophony.png" height="100" />
+  <img src="./profile/assets/UC_logo_transparent.png" height="100" /> 
+  <img src="./profile/assets/PF2050.png" height="100" />
+  <img src="./profile/assets/rfcx.png" height="100" />
 </p>
