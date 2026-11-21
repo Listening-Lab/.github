@@ -16,7 +16,8 @@ Our work is guided by Te Tiriti o Waitangi. Hapū guide how data about taonga sp
 
 ## Team
 Dr Ben McEwen (Co-lead) \
-Kaspar Soltero (Co-lead)
+Kaspar Soltero (Co-lead) \ 
+Professor Stefanie Gutschmidt
 
 See the full team [here](https://listeninglabnz.com/people/).
 
