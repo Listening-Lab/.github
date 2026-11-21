@@ -1,34 +1,32 @@
-# Listening Lab, New Zealand
-Multidisciplinary research group developing computational bioacoustic tools for improved conservation results
+# Listening Lab, Aotearoa New Zealand
+
+Listening to nature at scale. Methods and infrastructure for monitoring Aotearoa New Zealand's biodiversity, powered by [Nature Commons](https://listeninglabnz.com/).
 
 ## About
-The research team and activities combine multidisciplinary expertise and methodology to investigate and study SOUND (generation, detection & classification). We are interested in monitoring and labelling natural sounds of Aotearoa-NZ, for which we develop species-customised denoising and classification tools. 
+The Listening Lab is a not-for-profit research group building tools to monitor biodiversity across Aotearoa. We started with sound and now work across acoustics, imagery, remote sensing and eDNA, with the goal of a national biodiversity archive.
 
-Another strong research pillar of the Listening Lab is HEARING, where we follow open questions related to the human hearing process to develop improved sound detection devices (microphones, hearing aids, cochlear implants) to help people with impaired hearing or hearing loss.
+- **Sound Map of Aotearoa**: the acoustic layer of a national archive tracking the return of native soundscapes
+- **Data-efficient ML**: open models and pipelines that turn field recordings into species detections and biodiversity metrics (active learning, human-in-the-loop validation, uncertainty quantification)
+- **National model**: a free sound classification model for New Zealand species
+- **Monitoring services**: study design, validation and reporting for community groups, iwi, farmers and landowners
+
+Our work is guided by Te Tiriti o Waitangi. Hapū guide how data about taonga species is held and shared.
+
+*Mā te whakarongo, ka mōhio.* Through listening comes knowledge.
 
 ## Team
-Associate Professor Stefanie Gutschmidt (Research Group Leader) - Mechanical Engineering, Canterbury University \
-Dr Ben McEwen (Postdoctoral Researcher) - Tilburg University, Netherlands \
-Kaspar Soltero (PhD Candidate) - Mechanical Engineering, Canterbury University 
+Dr Ben McEwen (Co-lead) \
+Kaspar Soltero (Co-lead)
 
-## Collaborators
-See all collaborators [here](https://www.listeninglabnz.com/team)
+See the full team [here](https://listeninglabnz.com/people/).
 
-### Organisations
-Rainforest Connection - <https://rfcx.org/> \
-UC Vision - <https://ucvision.org.nz/> \
-Cacophony Project - <https://cacophony.org.nz/> \
-Predator Free 2050 Limited - <https://pf2050.co.nz/> \
-Forest and Bird NZ - <https://www.forestandbird.org.nz/> 
+## Links
+Website: <https://listeninglabnz.com/> \
+Sound map demo: <https://listeninglabnz.com/demo/> \
+Research: <https://listeninglabnz.com/research/> \
+Contact: <https://listeninglabnz.com/contact/>
 
-<br>
+## Partners
+University of Canterbury · Google DeepMind AI for the Planet Accelerator · Catalyst Cloud · Cacophony Project
 
-<p float="left">
-  <img src="./profile/assets/Cacophony.png" height="100" />
-  <img src="./profile/assets/UC_logo_transparent.png" height="100" /> 
-  <img src="./profile/assets/PF2050.png" height="100" />
-  <img src="./profile/assets/rfcx.png" height="100" />
-</p>
-
-
-© Listening Lab 2023
+© Nature Commons Ltd 2026
